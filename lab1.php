@@ -115,7 +115,7 @@ if (isset($_POST['btn-save'])){
 </html>
 
 <script type="text/javascript" src="validate.js"></script>
-		<script type="text/javascript" src="js/materialize.min.js"></script>
+		
 
 		<!--include jquery here. cnd network is used-->
 		<script src= "https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
